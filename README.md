@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently working on my bachelors' thesis which is creating windows app for students to learn different stuff about mobile networks.<br>I'm learning C# just for this project, and Python so I can do DS, ML things!
+I'm currently working on my bachelors' thesis which is creating windows app for students to learn different stuff about mobile networks!!! <br>I'm learning C# just for this project, and Python so I can do DS and ML things!
 
 
 # 💻 Tech Stack:
